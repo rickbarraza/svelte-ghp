@@ -1,2 +1,3 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Sveltekit & GitHub Pages</h1>
+<p>Testing workflow deployment from local sveltkit installation to functional SWA hosted on GitHub Pages</p>
+<p>Testing adding a new line real time on dev machine. HMR FTW!</p>
